@@ -1,8 +1,7 @@
 /*makebot R BOT library
- * makebot homepage(English) : http://makebot.mystrikingly.com/
- * makebot homepage(Korean) : https://makebot.modoo.at
- * files : https://github.com/makebot-lab/rbot
- * R BOT is humanoid robot made by WONDAEHAN.
+ * makebot homepage : https://makebot.ml
+ * lib-files : https://github.com/makebot-lab/rbot-lib
+ * R BOT is humanoid robot developed by WONDAEHAN.
  */
 #include "Arduino.h"
 #include "Rbot.h"
