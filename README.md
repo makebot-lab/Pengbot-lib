@@ -1,8 +1,8 @@
 # Rbot-lib
-[![Rbot - docs](https://img.shields.io/badge/Rbot-docs-blue)](https://docs.makebot.kro.kr/r-bot)
-[![Rbot - video](https://img.shields.io/badge/Rbot-video-brightgreen)](https://youtu.be/qPRbOdSb7tU)
-[![Rbot - project](https://img.shields.io/badge/Rbot-project-green)](http://rbot.makebot.kro.kr)
-[![Rbot - lib-version](https://img.shields.io/badge/version-1.0.0-lightgrey)]()
+[![pengbot - docs](https://img.shields.io/badge/pengbot-docs-blue)](https://docs.makebot.kro.kr/pengbot)
+[![pengbot - video](https://img.shields.io/badge/pengbot-video-brightgreen)](https://youtu.be/yMsoQBgu4A4)
+[![pengbot - project](https://img.shields.io/badge/pengbot-project-green)](http://pengbot.makebot.kro.kr)
+[![pengbot - lib-version](https://img.shields.io/badge/version-1.0.0-lightgrey)]()
 
-This repository is about a library for makebot R BOT.
-R BOT is humanoid robot developed by WONDAEHAN.
+This repository is about a library for makebot pengbot.
+Pengbot is a penguin robot developed by WONDAEHAN.
