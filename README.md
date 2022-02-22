@@ -5,4 +5,4 @@
 [![pengbot - lib-version](https://img.shields.io/badge/version-1.0.0-lightgrey)]()
 
 This repository is about a library for makebot pengbot.
-Pengbot is a penguin robot developed by WONDAEHAN.
+Pengbot is a penguin robot developed by Daehan Won.
