@@ -6,3 +6,6 @@
 
 This repository is about a library for makebot pengbot.
 Pengbot is a penguin robot developed by Daehan Won.
+
+## Here is a video abot pengbot 🐧
+[https://youtu.be/yMsoQBgu4A4](youtube)
